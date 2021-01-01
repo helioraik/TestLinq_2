@@ -1,0 +1,16 @@
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2.deps.json
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2.runtimeconfig.json
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2.runtimeconfig.dev.json
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2.dll
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/ref/TestLinq_2.dll
+/home/raik/RiderProjects/TestLinq_2/bin/Debug/net5.0/TestLinq_2.pdb
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.csprojAssemblyReference.cache
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.AssemblyInfoInputs.cache
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.AssemblyInfo.cs
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.csproj.CoreCompileInputs.cache
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.dll
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/ref/TestLinq_2.dll
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.pdb
+/home/raik/RiderProjects/TestLinq_2/obj/Debug/net5.0/TestLinq_2.genruntimeconfig.cache
